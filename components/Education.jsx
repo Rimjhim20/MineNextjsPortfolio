@@ -29,7 +29,7 @@ const Education = () => {
       <li>
         <div className="timeline-content">
           <h3 className="date">2008-2018</h3>
-          <h1>St. Xavier's High School</h1>
+          <h1>St. Xavier&apos;s High School</h1>
           <p>Secondary School</p>
           <p>CGPA ~ 7.75</p>
         </div>

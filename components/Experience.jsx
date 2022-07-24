@@ -35,7 +35,7 @@ Using react, tailwind and bootstrap Made frontend part of the attendance website
 <div>
 <h4> Mern Stack Intern at TwoWaits </h4>
 <h3>(March-April)</h3>
-<small className='text-light'>It's a virtual internship where I learned basics of MongoDB node, react and express usages.
+<small className='text-light'>It&apos;s a virtual internship where I learned basics of MongoDB node, react and express usages.
 Made one website using MERN stack.
 Deploy this website on Heroku.</small>
 </div>
