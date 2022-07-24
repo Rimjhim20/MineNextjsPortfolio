@@ -24,8 +24,8 @@ export default function Home() {
       <Header/>
       <Nav/>
       <About/>
-      <Experience/>
       <Education/>
+      <Experience/>
       <Services/>
       <Portfolio/>
       {/* <Testimonials/> */}
