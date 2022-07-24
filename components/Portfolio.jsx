@@ -28,7 +28,7 @@ width={500}
 <h3>Mine Portfolio Using Nextjs</h3>
 <div className='portfolio__item-cta'>
 <Link href='https://github.com/Rimjhim20/MineNextjsPortfolio' ><a className='btn'>Github</a></Link>
-<Link href='https://metalstation-nextjs.vercel.app/'><a className='btn btn-primary'>Live Demo</a></Link>
+<Link href='https://62dd928e6f2f6117eaa87a26--tranquil-snickerdoodle-1806c5.netlify.app/'><a className='btn btn-primary'>Live Demo</a></Link>
 </div>
   </article>
 
@@ -52,7 +52,7 @@ width={500}
 width={500}
 ></Image>
 </div>
-<h3>This is a portfolio item title</h3>
+<h3>Attendance Project</h3>
 <div className='portfolio__item-cta'>
 <Link href='https://github.com/Rimjhim20/attendance-project-' ><a className='btn'>Github</a></Link>
 <Link href='https://attendance-project.vercel.app/'><a className='btn btn-primary'>Live Demo</a></Link>
@@ -80,7 +80,7 @@ width={500}
 width={500}
 ></Image>
 </div>
-<h3>This is a portfolio item title</h3>
+<h3>Pepsi Landing Page</h3>
 <div className='portfolio__item-cta'>
 <Link href='https://github.com/Rimjhim20/Pepssi-Responsive-Landingpage' ><a className='btn'>Github</a></Link>
 <Link href='https://boring-heyrovsky-416a04.netlify.app/'><a className='btn btn-primary'>Live Demo</a></Link>
