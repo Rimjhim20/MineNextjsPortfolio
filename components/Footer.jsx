@@ -7,7 +7,7 @@ import {AiFillTwitterCircle} from 'react-icons/ai'
 const Footer = () => {
   return (
     <footer>
-      <Link href='#' className='footer__logo'><a>Rimjhim</a></Link>
+      <Link href='#' ><a className='footer__logo'>Rimjhim</a></Link>
 <ul className='permalinks'>
        <Link href="#"><a>Home</a></Link>
        <Link href="#about"><a>About</a></Link>
@@ -23,6 +23,9 @@ const Footer = () => {
 <Link href={'https://github.com/Rimjhim20'} ><a><BsGithub/></a></Link>
 <Link href={'https://github.com/Rimjhim20'} ><a><AiFillTwitterCircle/></a></Link>
 
+       </div>
+       <div className='footer__copyright'>
+        <small> &copy; Made By Rimjhim 💖</small>
        </div>
     </footer>
   )

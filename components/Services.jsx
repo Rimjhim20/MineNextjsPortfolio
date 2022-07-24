@@ -8,41 +8,37 @@ const Services = () => {
   <div className='container services__container'>
     <article className='service'>
       <div className='service__head'>
-        <h3>UI/UX Design</h3>
+        <h3>Volunteering</h3>
       </div>
 <ul className='service__list'>
 <li>
 <BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
+<p>Teamwork</p>
 </li>
 <li>
 <BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
+<p> Confidence</p>
 </li>
 <li>
 <BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
+<p> Communication</p>
 </li>
 <li>
 <BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
+<p> Punctuality</p>
 </li>
 <li>
 <BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
+<p> Professionalism</p>
 </li>
 <li>
 <BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
-</li>
-<li>
-<BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
+<p> Leadership</p>
 </li>
 </ul>
     </article>
 
-    {/*-------- End of UI/UX -------*/}
+    {/*-------- End of Volunteering -------*/}
 
 
     <article className='service'>
@@ -52,42 +48,30 @@ const Services = () => {
 <ul className='service__list'>
 <li>
 <BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
+<p>Understanding UX</p>
 </li>
 <li>
 <BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
+<p> Constantly learning and improving. </p>
 </li>
 <li>
 <BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
+<p> Being able to manage time and prioritize.</p>
 </li>
 <li>
 <BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
+<p> Communicating well with others.</p>
 </li>
 <li>
 <BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
-</li>
-<li>
-<BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
-</li>
-<li>
-<BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
-</li>
-<li>
-<BsCheck className='service__list-icon'/>
-<p>Lorem, ipsum.</p>
+<p> Keeping up to date with the industry.</p>
 </li>
 </ul>
     </article>
 
 {/*---------- End of Web Development ----------*/}
 
-    <article className='service'>
+    {/* <article className='service'>
       <div className='service__head'>
         <h3>Content Creation</h3>
       </div>
@@ -121,7 +105,7 @@ const Services = () => {
 <p>Lorem, ipsum.</p>
 </li>
 </ul>
-    </article>
+    </article> */}
 
     {/* End of Conrent Creation */}
   </div>

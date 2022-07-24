@@ -1,10 +1,10 @@
 import React from 'react'
-
+import Link from 'next/link'
 const CTA = () => {
   return (
     <div className='cta'>
-        <a href="Cv.pdf" className='btn'>Download CV</a>
-        <a href ="#contact" className='btn btn-primary'>Let&apos;s Talk</a>
+        <Link href="Cv.pdf" ><a className='btn'>Download CV</a></Link>
+        <Link href ="#contact" ><a className='btn btn-primary'>Let&apos;s Talk</a></Link>
         </div>
   )
 }

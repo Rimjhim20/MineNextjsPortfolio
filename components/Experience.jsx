@@ -78,7 +78,7 @@ Deploy this website on Heroku.</small>
 <BsFillPatchCheckFill className='experience__details_icon'/>
 <div>
 <h4>Bootstrap</h4>
-<small className='text-light'>Experienced</small>
+<small className='text-light'>Intermediate</small>
 </div>
     </article>
 
@@ -86,21 +86,21 @@ Deploy this website on Heroku.</small>
 <BsFillPatchCheckFill className='experience__details_icon'/>
 <div>
 <h4>Tailwind</h4>
-<small className='text-light'>Experienced</small>
+<small className='text-light'>Intermediate</small>
 </div>
     </article>
     <article className='experience__details'>
 <BsFillPatchCheckFill className='experience__details_icon'/>
 <div>
 <h4>Reactjs</h4>
-<small className='text-light'>Experienced</small>
+<small className='text-light'>Intermediate</small>
 </div>
     </article>
     <article className='experience__details'>
 <BsFillPatchCheckFill className='experience__details_icon'/>
 <div>
 <h4>Nextjs</h4>
-<small className='text-light'>Experienced</small>
+<small className='text-light'>Intermediate</small>
 </div>
     </article>
     </div>
@@ -115,7 +115,7 @@ Deploy this website on Heroku.</small>
 <BsFillPatchCheckFill className='experience__details_icon'/>
 <div>
 <h4>MongoDb</h4>
-<small className='text-light'>Experienced</small>
+<small className='text-light'>Intermediate</small>
 </div>
     </article>
 
@@ -123,7 +123,7 @@ Deploy this website on Heroku.</small>
 <BsFillPatchCheckFill className='experience__details_icon'/>
 <div>
 <h4>Nodejs</h4>
-<small className='text-light'>Experienced</small>
+<small className='text-light'>Basics</small>
 </div>
     </article>
 
@@ -131,16 +131,15 @@ Deploy this website on Heroku.</small>
 <BsFillPatchCheckFill className='experience__details_icon'/>
 <div>
 <h4> MySQL</h4>
-<small className='text-light'>Intermediate</small>
+<small className='text-light'>Basics</small>
 </div>
     </article>
-
 
     <article className='experience__details'>
 <BsFillPatchCheckFill className='experience__details_icon'/>
 <div>
 <h4>Express</h4>
-<small className='text-light'>Experienced</small>
+<small className='text-light'>Basics</small>
 </div>
     </article>
     </div>

@@ -455,7 +455,7 @@ color: var(--color-primary);
 /*------ service Css -----------*/
 .services__container{
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 3rem;
 }
 
@@ -500,6 +500,7 @@ margin-top: 2px;
 
 .service__list p{
   font-size: 0.9rem;
+  margin-top: 0rem;
 }
 
  /*--------------- MEDIA QUERY FOR MEDIUM DEVICE ---------------------*/
@@ -528,6 +529,7 @@ margin-top: 2px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2.5rem;
+  margin-top: 1rem;
 }
 
 .portfolio__item{
@@ -750,3 +752,64 @@ margin-top: 2rem;
     }
   }
   
+
+  /*-------- Footer Css -------*/
+
+  footer{
+    background: var(--color-primary);
+    padding: 3rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 1rem;
+  }
+.footer__logo{
+  font-size: 2rem;
+}
+  footer a{
+    font-size: 0.8rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    display: inline-block;
+    color: black;
+  }
+
+  .permalinks{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+.footer__socials{
+  display: flex;
+    width: fit-content;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    gap: 2rem;
+}
+  .footer__socials a{
+    background: var(--color-bg);
+    color: var(--color-white);
+    padding: 0.3rem;
+    border-radius: 0.7rem;
+    display: flex;
+    font-size: 1.2rem;
+    border: 1px solid transparent;
+  }
+
+  .footer__socials a:hover{
+    background: transparent;
+    color: var(--color-bg);
+    border-color: var(--color-bg);
+  }
+
+  .footer__copyright{
+    margin-bottom: 4rem;
+    color: var(--color-bg);
+  }
+
+  @media screen and (max-width:480px){
+    .permalinks{
+flex-direction: column;
+    }
+  }
