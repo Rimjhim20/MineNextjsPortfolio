@@ -28,7 +28,7 @@ width={500}
 <h3>Mine Portfolio Using Nextjs</h3>
 <div className='portfolio__item-cta'>
 <Link href='https://github.com/Rimjhim20/MineNextjsPortfolio' ><a className='btn'>Github</a></Link>
-<Link href='https://62dd928e6f2f6117eaa87a26--tranquil-snickerdoodle-1806c5.netlify.app/'><a className='btn btn-primary'>Live Demo</a></Link>
+<Link href='https://venerable-dragon-1e4c05.netlify.app/'><a className='btn btn-primary'>Live Demo</a></Link>
 </div>
   </article>
 
