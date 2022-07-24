@@ -1,8 +1,52 @@
 import React from 'react'
+import Link from 'next/link'
+import {FaAward} from 'react-icons/fa'
+import {FaUserTie} from 'react-icons/fa'
+import {GiFullFolder} from 'react-icons/gi'
 
 const About = () => {
   return (
-    <div>About</div>
+    <section id='about'>
+<h5>Get to Know</h5>
+<h2>About me</h2>
+<div className='container about__conatiner'>
+  
+
+  <div className='about__content'>
+    
+  <div className='about__cards'>
+
+      <article className='about__card'>
+        <FaAward className='about__icon'/>
+        <h5>Experience</h5>
+        <small>1+</small>
+      </article>
+
+      <article className='about__card'>
+        <GiFullFolder className='about__icon/'/>
+<h5>Project</h5>
+<small>5+</small>
+      </article>
+      <article className='about__card'>
+        <FaUserTie className='about__icon'/>
+          <h5>Internship</h5>
+          <small>1+</small>
+      </article>
+    </div>
+
+    <p>
+      
+    Hii everyone!!🤚 I am Rimjhim Kumari a CSE 3rd year student who loves to explore 🔍different things💡 .
+     I am a dedicated and tech passionated girl 🧠 with hands-on experience in the MERN Stack development field.
+     I actively participated in techincal programs and gain knowledge as much as I can.
+     I am using my knowledge and skills for continuous improvement💯📈.
+
+
+    </p>
+<Link href="#contact" className='btn btn-primary'>Let's Talk</Link>
+  </div>
+</div>
+    </section>
   )
 }
 
